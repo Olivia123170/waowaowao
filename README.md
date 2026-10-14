@@ -17,6 +17,14 @@
 
 对应的 git 标签与 `VERSION` 文件保持同步。
 
+## 远程仓库
+
+- GitHub：<https://github.com/Olivia123170/waowaowao>
+- 克隆：`git clone git@github.com:Olivia123170/waowaowao.git`
+- 默认分支 `main`，走 SSH 认证（本机密钥已登记，无需 token）。
+
+> 注：远程仓库名为 `waowaowao`，与本项目内容无直接关联，请勿据此推断项目用途。
+
 ## 源文件
 
 | 项目 | 说明 |
