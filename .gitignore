@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# 临时与中间产物
+*.tmp
+*.bak
+*.swp
+*~
+/build/
+/out/
+/outputs/
+*.log
+
+# Office 临时锁文件
+~$*
+.~lock.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
