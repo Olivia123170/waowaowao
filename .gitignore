@@ -23,3 +23,6 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
+
+# 工具产生的会话与记忆数据（非交付物）
+.workbuddy-ai/
